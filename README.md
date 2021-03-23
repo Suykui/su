@@ -1,2 +1,2 @@
 # su
-from zero to all
+# from zero to all
